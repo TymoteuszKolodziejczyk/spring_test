@@ -1,4 +1,4 @@
-package org.example.spring_test;
+package org.example.spring_test.first;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

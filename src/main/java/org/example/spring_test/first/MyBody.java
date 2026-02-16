@@ -1,4 +1,4 @@
-package org.example.spring_test;
+package org.example.spring_test.first;
 
 public class MyBody {
     String login;
